@@ -2,8 +2,7 @@
 <p>I'm a Full-stack software developer who is passionate about creating technology to elevate people, and building community.</p>
 <p><em>For new adventure ↓</em></p>
 <img src="https://media.giphy.com/media/1UVyaO2J8igBuNTe3h/source.gif" width="200">
-[![Linkedin Badge](https://img.shields.io/github/downloads/Maha-Magdy/Maha-Magdy/total?label=Maha%20Magdy&logo=Linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/maha-magdy-18a8a7116/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Maha_M_Abdelaal)](https://twitter.com/Maha_M_Abdelaal)
+![GitHub all releases](https://img.shields.io/github/downloads/Maha-Magdy/Maha-Magdy/total?label=Maha%20Magdy&logo=Linkedin&logoColor=white&style=flat-square)
 
 <!--
 **Maha-Magdy/Maha-Magdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
