@@ -1,5 +1,5 @@
 <style>
-  #i-will-be-there-gif{
+  #user-content-i-will-be-there-gif{
   padding-top: 10px;
   }
 <style>
