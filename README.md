@@ -1,6 +1,6 @@
 <h2> Hi, I'm Maha! <img src="https://media.giphy.com/media/L45F5mvj5XVzdcL0VV/source.gif" width="60"></h2>
 <p>I'm a Full-stack software developer who is passionate about creating technology to elevate people, and building community.</p>
-<p><em  align="top">For new adventure</em><img src="https://github.com/Maha-Magdy/Maha-Magdy/blob/main/images/arrow-clipart.png" width="50"></p>
+<p><em  align="top">For new adventure ↓</em></p>
 <img src="https://media.giphy.com/media/1UVyaO2J8igBuNTe3h/source.gif" width="200">
 
 <!--
