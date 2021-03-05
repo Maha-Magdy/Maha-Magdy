@@ -2,7 +2,10 @@
 <p>I'm a Full-stack software developer who is passionate about creating technology to elevate people, and building community.</p>
 <p><em>For new adventure ↓</em></p>
 <img src="https://media.giphy.com/media/1UVyaO2J8igBuNTe3h/source.gif" width="200">
-![GitHub all releases](https://img.shields.io/github/downloads/Maha-Magdy/Maha-Magdy/total?label=Maha%20Magdy&logo=Linkedin&logoColor=white&style=flat-square)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Maha%20Magdy-%23007ec6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maha-magdy-18a8a7116/)](https://www.linkedin.com/in/maha-magdy-18a8a7116/)
+
+
 
 <!--
 **Maha-Magdy/Maha-Magdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
