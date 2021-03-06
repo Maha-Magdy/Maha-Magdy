@@ -1,5 +1,5 @@
 <h2> Hi, I'm Maha! <img src="https://media.giphy.com/media/L45F5mvj5XVzdcL0VV/source.gif" width="60"></h2>
-<p>I'm a Full-stack software developer who is passionate about creating technology to elevate people, and addicting for friends tv show.</p>
+<p>I'm a Full-stack software developer who is passionate about creating technology to elevate people, and addicting for a friends' tv show.</p>
 <p><em>For new adventure ↓</em></p>
 <img src="https://media.giphy.com/media/1UVyaO2J8igBuNTe3h/source.gif" width="200">
 
