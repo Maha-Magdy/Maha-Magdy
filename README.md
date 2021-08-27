@@ -7,6 +7,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-%40Maha__M__Abdelaal-%231ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Maha_M_Abdelaal)](https://twitter.com/Maha_M_Abdelaal)
 
 
+[![Maha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maha-Magdy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Maha-Magdy/Maha-Magdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
