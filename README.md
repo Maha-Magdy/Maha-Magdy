@@ -10,6 +10,7 @@
 <details>
   <summary> <b>GitHub Stats</b> </summary>
   
+  <br/>
   [![Maha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maha-Magdy&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-Magdy&show_icons=true&langs_count=10&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
