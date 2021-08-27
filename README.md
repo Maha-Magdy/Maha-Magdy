@@ -8,7 +8,7 @@
 
 <h2></h2>
 <details>
-  <summary> GitHub Stats </summary>
+  <summary> <h3>GitHub Stats</3> </summary>
   
   [![Maha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maha-Magdy&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
   
